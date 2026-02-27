@@ -4,3 +4,4 @@ pdfplumber
 openpyxl
 PyPDF2
 xlrd
+streamlit-aggrid
